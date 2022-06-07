@@ -9,3 +9,6 @@ def gro(x, y):
 if __name__ == '__main__':
     print(plus(2, 3))
     print(gro(5, 2))
+
+
+g = 5464564
